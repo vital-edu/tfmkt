@@ -1,9 +1,9 @@
 {
-  "name": "Holochain App Name",
-  "description": "A Holochain app",
+  "name": "The True Free Market",
+  "description": "A decentralized e-commerce",
   "authors": [
     {
-      "identifier": "Author Name <author@name.com>",
+      "identifier": "Eduardo Vital Alencar Cunha <vitaldu@gmail.com>",
       "public_key_source": "",
       "signature": ""
     }
